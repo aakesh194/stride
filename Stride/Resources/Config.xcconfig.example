@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  Stride
+//
+//  Copy this file to Config.xcconfig and fill in your own values.
+//  Config.xcconfig is gitignored to keep secrets out of source control.
+//
+
+API_KEY=your_api_key_here
